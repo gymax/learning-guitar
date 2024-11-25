@@ -54,7 +54,7 @@
 | B          |     |     |     |     |     |     | 0   | 1     |
 
 
-###純四度
+###純四度  
 
 <a href="https://kknews.cc/news/ky2zjxp.html">https://kknews.cc/news/ky2zjxp.html</a>
 所以相隔四度的音很容易在指板上被找到，彈響任意一個音，它的純四度音必然在它下面一根弦的同品位上，只是遇到三弦和二弦時，注意一些小小的變化
