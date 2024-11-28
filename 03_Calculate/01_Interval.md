@@ -27,3 +27,5 @@
 - [音程推算記憶法【葉宇峻彈吉他#148】](https://www.youtube.com/watch?v=SCfF4gDwSRY)
 - [葉宇峻彈吉他#25 Am的基本六種按法 Minor Triad Chord Tutorial](https://www.youtube.com/watch?v=FfbP0ZlVde4&list=PL7yZwNs7cH5QmdGvL7XtnoQ6VAsDfjBXH&index=38)
 - [葉宇峻彈吉他#23 C和弦的基本六種按法 Major Triad Chord Tutorial](https://www.youtube.com/watch?v=9MSbllQNW14&list=PL7yZwNs7cH5QmdGvL7XtnoQ6VAsDfjBXH&index=39)
+
+[如何记住吉他指板每个位置代表的音符？](https://www.zhihu.com/question/350769241)
